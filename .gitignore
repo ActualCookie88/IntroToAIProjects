@@ -1,41 +1,62 @@
-# Prerequisites
-*.d
+# ======================
+# C++ / Build Artifacts
+# ======================
 
-# Compiled Object files
-*.slo
-*.lo
+# Object files, static and dynamic libs
 *.o
 *.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
 
-# Precompiled Headers
+# Precompiled headers
 *.gch
 *.pch
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
+# Compiled source outputs
+*.slo
+*.lo
 *.lai
 *.la
-*.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
 
-# debug information files
+# Debug files
+*.pdb
 *.dwo
+*.d
+
+# ======================
+# CMake / Build Folders
+# ======================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+Debug/
+Release/
+*.dir/
+*.ninja
+
+# ======================
+# IDE / Editor files
+# ======================
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+*.bak
+*.log
+
+# ======================
+# Other
+# ======================
+*.tmp
+*.temp

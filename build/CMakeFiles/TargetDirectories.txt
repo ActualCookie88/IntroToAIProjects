@@ -1,3 +1,0 @@
-C:/Users/lmats/CS170Project1/CS170Project1/build/CMakeFiles/puzzle.dir
-C:/Users/lmats/CS170Project1/CS170Project1/build/CMakeFiles/edit_cache.dir
-C:/Users/lmats/CS170Project1/CS170Project1/build/CMakeFiles/rebuild_cache.dir
