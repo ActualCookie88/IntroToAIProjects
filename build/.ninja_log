@@ -1,0 +1,7 @@
+# ninja log v6
+77	508	7954129108480921	CMakeFiles/puzzle.dir/src/Puzzle.cpp.obj	8e49b69e6779ba56
+73	647	7954129108420677	CMakeFiles/puzzle.dir/src/Heuristics.cpp.obj	ab10fd85e218810e
+69	674	7954129108397658	CMakeFiles/puzzle.dir/src/globals.cpp.obj	849e4711e09b3b3e
+56	704	7954129108254557	CMakeFiles/puzzle.dir/main.cpp.obj	ffe9d7d1be561beb
+86	870	7954129108566715	CMakeFiles/puzzle.dir/src/Search.cpp.obj	d5735cb9cd430697
+871	1089	7954129116409117	C:/Users/lmats/CS170Project1/CS170Project1/puzzle.exe	e772d576b90e2057
