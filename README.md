@@ -47,6 +47,10 @@ ninja
 ./puzzle        # On Linux/macOS
 puzzle.exe      # On Windows
 ```
+If you're unable to build, an a.out file is provided:
+``` bash
+./a.out
+```
 
 ## Report
 For detailed results and analysis, see project report:
