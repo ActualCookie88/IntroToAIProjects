@@ -5,28 +5,37 @@ By Luke Matsunaga
 Project completed as part of an algorithms course. 
 Focus: Implementing search algorithms for solving the 8-puzzle.
 
-This project implements an 8-puzzle solver in C++ using:
+This project implements an 8-puzzle solver in C++ using classical AI search techniques:
 
 - Uniform Cost Search (UCS)
 - Misplaced Tile Heuristic (A*)
 - Manhattan Distance Heuristic (A*)
   
 ## Prerequisites
-
 - C++17 compiler (GCC, Clang, or MSVC)
 - CMake (version 3.15+)
 - Ninja (optional, recommended for fast builds)
 
 ## Features
-- Default puzzles of various depths
-- Custom puzzles with input validation
-- Node expansion statistics (nodes expanded, max queue size)
-- Modular, readable code structure
+- Predefined puzzles of varying difficulty  
+- Custom puzzle input with validation  
+- Performance metrics:
+  - Nodes expanded  
+  - Maximum queue size  
+- Comparison of search strategies and heuristics  
+- Modular and readable C++ implementation  
+
+## Concepts Covered
+- State-space representation  
+- Informed vs uninformed search  
+- Heuristic design and evaluation  
+- Optimal pathfinding and cost analysis  
 
 ## Building the Project
 1. Clone the repository
 ```bash
-git clone https://github.com/ActualCookie88/8_Puzzle_Solver.git
+git clone https://github.com/ActualCookie88/IntroToAIProjects.git
+cd 8_Puzzle_Solver/
 ```
 2. Create a build directory
 ```bash
@@ -49,7 +58,7 @@ ninja
 ./puzzle        # On Linux/macOS
 puzzle.exe      # On Windows
 ```
-If you're unable to build, an a.out file is provided:
+If you're unable to build, an executable may be provided:
 ``` bash
 ./a.out
 ```
