@@ -58,10 +58,6 @@ ninja
 ./puzzle        # On Linux/macOS
 puzzle.exe      # On Windows
 ```
-If you're unable to build, an executable may be provided:
-``` bash
-./a.out
-```
 
 ## Output
 This program displays:
