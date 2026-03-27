@@ -33,16 +33,15 @@ This project implements an 8-puzzle solver in C++ using classical AI search tech
 
 ## Interactive Demo
 Below is a link to an interactive visual demo of the 8-puzzle.
-[Link here](https://ActualCookie88.github.io/IntroToAIProjects/visualizer.html)
+[Link here](https://ActualCookie88.github.io/8-Puzzle-Solver/visualizer/visualizer.html)
 
 ## Building the Project
 1. Clone the repo (if you haven't already)
 ```bash
-git clone https://github.com/ActualCookie88/IntroToAIProjects.git
+git clone https://github.com/ActualCookie88/8-Puzzle-Solver.git
 ```
-2. Navigate to folder and create a build directory
+2. Create a build directory
 ```bash
-cd 8_Puzzle_Solver/
 mkdir build
 cd build/
 ```
