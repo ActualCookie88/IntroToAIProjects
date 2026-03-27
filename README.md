@@ -33,7 +33,7 @@ This project implements an 8-puzzle solver in C++ using classical AI search tech
 
 ## Interactive Demo
 Below is a link to an interactive visual demo of the 8-puzzle.
-[Link here](https://ActualCookie88.github.io/8-Puzzle-Solver/visualizer/visualizer.html)
+[Link here](https://ActualCookie88.github.io/8-Puzzle-Solver/docs/visualizer.html)
 
 ## Building the Project
 1. Clone the repo (if you haven't already)
