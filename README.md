@@ -39,6 +39,7 @@ See project README for build and run instructions
 Each project is self-contained. Navigate into a project folder and follow its README for setup and execution.
 
 ## Interactive Demo
+Below is a link to an interactive visual demo of the 8-puzzle.
 [Link here](https://ActualCookie88.github.io/IntroToAIProjects/visualizer.html)
 
 ## Technologies Used
